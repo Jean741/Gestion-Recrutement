@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.stage.entities.Candidature" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/Candidature.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="184" width="246" x="330" y="255"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.stage.entities.CandidatureInQuizz" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/CandidatureInQuizz.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="127" width="182" x="41" y="431"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.stage.entities.DossierCandidature" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/DossierCandidature.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="127" width="211" x="804" y="301"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.stage.entities.Entreprise" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/Entreprise.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="170" x="79" y="219"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.stage.entities.Profil" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/Profil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="242" width="247" x="628" y="-46"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.stage.entities.EtablissementScolaire" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/EtablissementScolaire.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="176" x="1069" y="227"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.stage.entities.ExperienceProfessionnelle" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/ExperienceProfessionnelle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="164" width="264" x="56" y="-47"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.stage.entities.ExperienceScolaire" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/ExperienceScolaire.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="158" width="193" x="1098" y="-41"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.stage.entities.Quizz" project="ModuleRHVneuron" 
+    file="/ModuleRHVneuron/src/main/java/com/stage/entities/Quizz.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="121" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <association id="10">    
+    <end type="SOURCE" refId="2" navigable="true">      
+      <attribute id="11" name="candidature">        
+        <position height="0" width="0" x="-713" y="-113"/>      
+      </attribute>      
+      <multiplicity id="12" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-713" y="-113"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true">      
+      <attribute id="13" name="quizzs">        
+        <position height="0" width="0" x="-744" y="-314"/>      
+      </attribute>      
+      <multiplicity id="14" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-744" y="-314"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="15">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="16" name="etablissementScolaire">        
+        <position height="0" width="0" x="59" y="48"/>      
+      </attribute>      
+      <multiplicity id="17" minimum="0" maximum="1">        
+        <position height="0" width="0" x="59" y="48"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="18">    
+    <end type="SOURCE" refId="1" navigable="true">      
+      <attribute id="19" name="profil">        
+        <position height="0" width="0" x="611" y="-181"/>      
+      </attribute>      
+      <multiplicity id="20" minimum="0" maximum="1">        
+        <position height="0" width="0" x="611" y="-181"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true">      
+      <attribute id="21" name="candidatures">        
+        <position height="0" width="0" x="-713" y="-113"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-713" y="-113"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="5" navigable="true">      
+      <attribute id="24" name="dossierCandidatures">        
+        <position height="0" width="0" x="612" y="417"/>      
+      </attribute>      
+      <multiplicity id="25" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="612" y="417"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true">      
+      <attribute id="26" name="profil">        
+        <position height="0" width="0" x="611" y="-181"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="1">        
+        <position height="0" width="0" x="611" y="-181"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="5" navigable="true">      
+      <attribute id="29" name="experiencesScolaire">        
+        <position height="0" width="0" x="210" y="16"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="210" y="16"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true">      
+      <attribute id="31" name="profil">        
+        <position height="0" width="0" x="79" y="18"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="0" width="0" x="79" y="18"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="9" navigable="true">      
+      <attribute id="34" name="candidatures">        
+        <position height="0" width="0" x="-164" y="-52"/>      
+      </attribute>      
+      <multiplicity id="35" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-164" y="-52"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true">      
+      <attribute id="36" name="quizz">        
+        <position height="0" width="0" x="-480" y="146"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-480" y="146"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="7" navigable="true">      
+      <attribute id="39" name="profil">        
+        <position height="0" width="0" x="79" y="18"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="1">        
+        <position height="0" width="0" x="79" y="18"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true">      
+      <attribute id="41" name="experiencesProfessionnelle">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="44" name="entreprise">        
+        <position height="0" width="0" x="49" y="4"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="49" y="4"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
