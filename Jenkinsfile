@@ -1,6 +1,6 @@
 /* Requires the Docker Pipeline plugin */
 pipeline {
-    agent { docker { image 'maven:3.8.1-jdk-11' } }
+    agent any
     stages {
         stage('build') {
             steps {
