@@ -13,7 +13,12 @@ import com.stage.repository.PosteRepository;
 import com.stage.repository.ProfilRepository;
 import com.stage.services.IProfilService;
 
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
 @Service
+//@AllArgsConstructor
+//@NoArgsConstructor
 public class ProfilImpl implements IProfilService {
 	@Autowired
 	ProfilRepository profilRepository;

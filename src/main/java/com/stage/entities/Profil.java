@@ -17,6 +17,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -28,6 +29,7 @@ import lombok.experimental.FieldDefaults;
 @AllArgsConstructor
 @EqualsAndHashCode(of = { "id" })
 @Entity
+@Builder
 @JsonIgnoreProperties(value = { "experiencesScolaires", "experiencesProfessionnelles", "dossierCandidatures", "candidatures" })
 public class Profil implements Serializable {
 
