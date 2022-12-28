@@ -10,10 +10,10 @@
 
 	<groupId>com.stage</groupId>
 	<artifactId>BaseDeDonnePg</artifactId>
-	<version>0.0.1-myV</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>ModuleRHVneuron</name>
 	<description>Generation d'une base de donne</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -95,6 +95,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			
 		</plugins>
 	</build>
 </project>
